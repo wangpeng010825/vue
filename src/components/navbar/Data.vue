@@ -5,6 +5,9 @@
 </template>
 <script>
   export default {
-    name:'Data'
+    name:'Data'，
+    data(){
+
+    }
   }
 </script>
